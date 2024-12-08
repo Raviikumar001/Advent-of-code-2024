@@ -68,7 +68,6 @@ int main()
                 earlier.insert(x);
             }
             if (ok) {
-                // answer += v[v.size()/2];
             } else {
 
                 vector<int> order;
